@@ -1,0 +1,11 @@
+
+Item: fish, amount= 560.0, date: 14/08/2023, category: food
+Item: rice, amount= 340.0, date: 14/08/2023, category: food
+Item: mobile, amount= 18000.0, date: 06/10/2023, category: needs
+Item: jacket, amount= 800.0, date: 12/10/2023, category: clothing
+
+Item: home rent, amount= 5000.0, date: 02/08/2023, category: home
+Item: painting, amount= 1520.0, date: 05/08/2023, category: other
+
+Item: books, amount= 1000.0, date: 18/10/2023, category: needs
+Item: plant, amount= 480.0, date: 21/10/2023, category: other
